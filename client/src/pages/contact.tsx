@@ -135,7 +135,7 @@ export default function Contact() {
                     <h3 className="font-bold mb-1">Phone</h3>
                     <p className="text-muted-foreground">(647) 388-7128</p>
                     <p className="text-sm text-muted-foreground">
-                      Mon-Sat, 8am - 6pm EST
+                      Monday - Sunday, 9am - 7pm EST
                     </p>
                   </div>
                 </div>
@@ -161,7 +161,6 @@ export default function Contact() {
                     <p className="text-muted-foreground">
                       Monday - Saturday: 9:00 AM - 7:00 PM
                     </p>
-                    <p className="text-muted-foreground">Sunday: Closed</p>
                   </div>
                 </div>
               </div>
