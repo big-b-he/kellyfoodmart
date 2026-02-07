@@ -143,7 +143,7 @@ export default function Home() {
                   <p className="text-sm opacity-80">Years of Experience</p>
                 </div>
                 <div>
-                  <h4 className="text-4xl font-bold text-accent mb-1">500+</h4>
+                  <h4 className="text-4xl font-bold text-accent mb-1">35+</h4>
                   <p className="text-sm opacity-80">Happy Clients</p>
                 </div>
                 <div>
