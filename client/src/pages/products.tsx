@@ -573,9 +573,9 @@ const PRODUCTS = [
   },
   {
     id: 78,
-    name: "Pad Thai Noodles",
+    name: "Erawan Brand Medium Rice Sticks (Pad Thai)",
     category: "Pantry & Sauces",
-    weight: "30 lb / case",
+    weight: "30 × 454 g",
     image:
       "https://apa.si.edu/picklesandtea/wp-content/uploads/sites/14/2014/05/rice-noodles.jpg",
   },
