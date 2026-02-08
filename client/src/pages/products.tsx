@@ -936,6 +936,256 @@ const PRODUCTS = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV9OReqACwyeStDGYniQF5CUs54FOSVZc1VQ&s",
   },
+    // Missing Sauces & Curry Pastes
+  {
+    id: 116,
+    name: "Sweet Chili Sauce (Glass Bottle)",
+    category: "Pantry & Sauces",
+    weight: "12 × 730 ml / case",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 117,
+    name: "Chili Garlic Sauce (Huy Fong)",
+    category: "Pantry & Sauces",
+    weight: "3 × 3.5 L / case",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 118,
+    name: "Massaman Curry Paste",
+    category: "Pantry & Sauces",
+    weight: "48 × 114 g / case",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 119,
+    name: "Green Curry Paste",
+    category: "Pantry & Sauces",
+    weight: "48 × 114 g / case",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 120,
+    name: "Panang Curry Paste",
+    category: "Pantry & Sauces",
+    weight: "48 × 114 g / case",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 121,
+    name: "Yellow Curry Paste",
+    category: "Pantry & Sauces",
+    weight: "48 × 114 g / case",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 122,
+    name: "Red Curry Paste",
+    category: "Pantry & Sauces",
+    weight: "48 × 114 g / case",
+    image: "https://via.placeholder.com/400",
+  },
+
+  // Missing Soy Sauces
+  {
+    id: 123,
+    name: "Mushroom Flavoured Dark Soy Sauce (PRB)",
+    category: "Pantry & Sauces",
+    weight: "2 × 8 L / case",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 124,
+    name: "Dark Superior Soy Sauce (PRB)",
+    category: "Pantry & Sauces",
+    weight: "2 × 8 L / case",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 125,
+    name: "Light Superior Soy Sauce (PRB)",
+    category: "Pantry & Sauces",
+    weight: "2 × 8 L / case",
+    image: "https://via.placeholder.com/400",
+  },
+
+  // Canned / Preserved
+  {
+    id: 126,
+    name: "Bamboo Shoot Strips (Canned)",
+    category: "Pantry & Sauces",
+    weight: "6 × 2950 g / case",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 127,
+    name: "Peeled Water Chestnuts",
+    category: "Pantry & Sauces",
+    weight: "24 × 567 g / case",
+    image: "https://via.placeholder.com/400",
+  },
+
+  // Dry Goods
+  {
+    id: 128,
+    name: "Dehydrated Minced Garlic",
+    category: "Pantry & Sauces",
+    weight: "5 lb / bag",
+    image: "https://via.placeholder.com/400",
+  },
+
+  // Fresh Produce
+  {
+    id: 129,
+    name: "White Mushrooms",
+    category: "Mushrooms",
+    weight: "Box 5 lb",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 130,
+    name: "Red Onions",
+    category: "Vegetables",
+    weight: "Bag 25 lb",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 131,
+    name: "Lemons",
+    category: "Fruit",
+    weight: "Box 33 lb",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 132,
+    name: "Limes",
+    category: "Fruit",
+    weight: "Box 33 lb",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 133,
+    name: "Green Bell Peppers",
+    category: "Vegetables",
+    weight: "Case 20 lb",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 134,
+    name: "Red Bell Peppers",
+    category: "Vegetables",
+    weight: "Case 20 lb",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 135,
+    name: "Habanero Peppers",
+    category: "Peppers & Herbs",
+    weight: "Box 8 lb",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 136,
+    name: "Green Thai Chili",
+    category: "Peppers & Herbs",
+    weight: "1 lb",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 137,
+    name: "Red Thai Chili",
+    category: "Peppers & Herbs",
+    weight: "1 lb",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 138,
+    name: "Jalapeno Peppers",
+    category: "Peppers & Herbs",
+    weight: "1 lb",
+    image: "https://via.placeholder.com/400",
+  },
+
+  // Greens & Vegetables
+  {
+    id: 139,
+    name: "Broccoli",
+    category: "Vegetables",
+    weight: "Case 20 lb",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 140,
+    name: "Chinese Broccoli (Gai Lan)",
+    category: "Vegetables",
+    weight: "Case 30 lb",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 141,
+    name: "Cauliflower",
+    category: "Vegetables",
+    weight: "Case 12 ct",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 142,
+    name: "Sweet Potatoes (Yam)",
+    category: "Vegetables",
+    weight: "Case 40 lb",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 143,
+    name: "Taro Root",
+    category: "Vegetables",
+    weight: "Each",
+    image: "https://via.placeholder.com/400",
+  },
+
+  // Fruit
+  {
+    id: 144,
+    name: "Avocados",
+    category: "Fruit",
+    weight: "Case 48 ct",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 145,
+    name: "Pineapple",
+    category: "Fruit",
+    weight: "Case 6–8 ct",
+    image: "https://via.placeholder.com/400",
+  },
+
+  // Protein
+  {
+    id: 146,
+    name: "Eggs",
+    category: "Protein",
+    weight: "15 dozen / case",
+    image: "https://via.placeholder.com/400",
+  },
+
+  // Herbs
+  {
+    id: 147,
+    name: "Thai Basil",
+    category: "Peppers & Herbs",
+    weight: "1 bunch",
+    image: "https://via.placeholder.com/400",
+  },
+  {
+    id: 148,
+    name: "Holy Basil",
+    category: "Peppers & Herbs",
+    weight: "1 bunch",
+    image: "https://via.placeholder.com/400",
+  },
+
+  
 ];
 
 const CATEGORIES = [
