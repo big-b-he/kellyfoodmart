@@ -395,7 +395,7 @@ const PRODUCTS = [
     id: 55,
     name: "Oyster Sauce (Lee Kum Kee)",
     category: "Pantry & Sauces",
-    weight: "6 × 2.27 kg / case",
+    weight: "6 × 2.2 kg / case",
     image:
       "https://cdn-akamai.lkk.com/foodservices/-/media/kum-chun-brand-oyster-flavored-sauce-5-lb-2020.png?h=400&iar=0&mh=400&mw=310&w=195&hash=A4EA8619239BBD7727BCEE9274184D2A",
   },
@@ -419,7 +419,7 @@ const PRODUCTS = [
     id: 58,
     name: "Fish Sauce (Lucky Brand)",
     category: "Pantry & Sauces",
-    weight: "12 × 750 ml / case",
+    weight: "12 × 700 ml / case",
     image:
       "https://mi.alpremium.ca/cdn/shop/products/0127888-9.jpg?v=1611844250",
   },
@@ -465,7 +465,7 @@ const PRODUCTS = [
     id: 64,
     name: "Ground Bean Sauce",
     category: "Pantry & Sauces",
-    weight: "12 × 368 g / case",
+    weight: "6 × 2.27 kg",
     image: "https://i.ebayimg.com/images/g/0BIAAOSwF5NeyWB9/s-l400.jpg",
   },
   {
@@ -488,7 +488,7 @@ const PRODUCTS = [
     id: 67,
     name: "Sugar",
     category: "Pantry & Sauces",
-    weight: "25 kg / bag",
+    weight: "20 kg / bag",
     image:
       "https://png.pngtree.com/png-clipart/20241121/original/pngtree-white-sugar-png-image_17275581.png",
   },
@@ -496,7 +496,7 @@ const PRODUCTS = [
     id: 68,
     name: "Salt",
     category: "Pantry & Sauces",
-    weight: "20–25 kg / bag",
+    weight: "20 kg / bag",
     image:
       "https://seasalt.com/uploads/cms/salt-guide-images/mediterra-mediterranean-sea-salt-small-bowl-desktop.jpg",
   },
@@ -504,7 +504,7 @@ const PRODUCTS = [
     id: 69,
     name: "Cashew Nuts",
     category: "Pantry & Sauces",
-    weight: "25 lb / case",
+    weight: "50 lb / box",
     image:
       "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/BigBead/health_benefits_of_cashews_bigbead/1800x1200_getty_rf_health_benefits_of_cashews_bigbead.jpg?resize=750px:*&output-quality=75",
   },
@@ -512,7 +512,7 @@ const PRODUCTS = [
     id: 70,
     name: "Peanuts",
     category: "Pantry & Sauces",
-    weight: "25 lb / case",
+    weight: "50 lb / box",
     image:
       "https://sapienskitchen.com/wp-content/uploads/2024/09/ten-reasons-to-avoid-peanuts-blog-1000x500-1.jpg",
   },
@@ -536,14 +536,14 @@ const PRODUCTS = [
     id: 73,
     name: "Dried Red Chili (Crushed)",
     category: "Pantry & Sauces",
-    weight: "10 lb / case",
+    weight: "6 × 5 lb / case",
     image: "https://i.ebayimg.com/images/g/RQsAAOSw0MNgvQwZ/s-l400.jpg",
   },
   {
     id: 74,
     name: "Dry Garlic Granules",
     category: "Pantry & Sauces",
-    weight: "25 lb / case",
+    weight: "6 × 2.27 kg / case",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_UNs2BqtUgNRRUNTiO44SxeyMOh07SM4ww&s",
   },
@@ -559,7 +559,7 @@ const PRODUCTS = [
     id: 76,
     name: "Jasmine Rice (Y&Y)",
     category: "Pantry & Sauces",
-    weight: "25 kg / bag",
+    weight: "8 kg / bag",
     image:
       "https://mcen.alpremium.ca/cdn/shop/products/photo-editing12_grande.jpg?v=1601533996",
   },
@@ -573,7 +573,7 @@ const PRODUCTS = [
   },
   {
     id: 78,
-    name: "Erawan Brand Medium Rice Sticks (Pad Thai)",
+    name: "Erawan Brand Medium Rice Sticks (Pad Thai Noodles)",
     category: "Pantry & Sauces",
     weight: "30 × 454 g",
     image:
